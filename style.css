@@ -1,0 +1,81 @@
+body {
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container{
+    /* background-image: url(./img/img-0.jpeg); */
+    position:absolute ;
+    align-items: center;
+    justify-content: center;
+    border: 5px dodgerblue solid ;
+    width: 900px;
+    height: 500px;
+    background-color: white;
+    left: 225px;
+    top:75px;
+}
+
+.img{
+    
+    width: 900px;
+    height: 500px;
+}
+
+.right{
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight:bolder;
+    position: absolute;
+    right:200px;
+    top:45%;
+
+}
+
+.left{
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight:bolder;
+    position: absolute;
+    left:200px;
+    top:45%;
+}
+
+
+h1{
+    padding: 25px;
+    color: black;
+    font-size:60px;
+    font-weight: 800;
+    position: absolute;
+    left: 500px;
+    top:10%;
+
+}
+
+.num{
+    align-items: center;
+    justify-content: center;
+    color:gray;
+    font-size: 200px;
+    font-weight: 900;
+    position: absolute;
+    left: 625px;
+    top:30%;
+
+}
+
+
